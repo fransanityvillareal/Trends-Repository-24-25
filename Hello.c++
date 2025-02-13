@@ -6,5 +6,5 @@ int main () {
 
 cout << "Hello html! ";
 
-return 0'
+return 0;
 }
