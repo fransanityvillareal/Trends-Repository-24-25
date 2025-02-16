@@ -1,1 +1,2 @@
-# A Repository for CSDC105
+# A Repository for CSDC105 Course
+
